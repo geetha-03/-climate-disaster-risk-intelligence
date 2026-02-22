@@ -6,7 +6,7 @@ This project investigates the detection of significant long-term trends in clima
 
 🚀 Live Demo
 
-🔗 https://your-app-name.streamlit.app
+🔗 (https://geetha-03--climate-disaster-risk-intelligence-app-16bgzb.streamlit.app/)
 
 (Replace with your actual Streamlit link)
 
