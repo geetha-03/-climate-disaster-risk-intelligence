@@ -8,8 +8,6 @@ This project investigates the detection of significant long-term trends in clima
 
 🔗 (https://geetha-03--climate-disaster-risk-intelligence-app-16bgzb.streamlit.app/)
 
-(Replace with your actual Streamlit link)
-
 🎯 Research Motivation
 
 Climate disaster trend detection is statistically challenging due to:
