@@ -128,36 +128,6 @@ Statistical configurations
 
 Visualization is rendered dynamically using matplotlib without filesystem dependencies.
 
-📂 Repository Structure
-
-climate-disaster-risk-intelligence/
-│
-├── app.py
-├── main_pipeline.py
-│
-├── agents/
-│ ├── ingestion_agent.py
-│ ├── trend_agent.py
-│ ├── statistical_agent.py
-│ ├── mean_shift_agent.py
-│ ├── risk_agent.py
-│ ├── reflection_agent.py
-│ ├── interpretation_agent.py
-│ └── visualization_agent.py
-│
-├── graph/
-│ ├── climate_graph.py
-│ └── state.py
-│
-├── llm/
-│ └── groq_llm.py
-│
-├── data/
-│ └── emdat_raw.csv
-│
-├── requirements.txt
-└── README.md
-
 ⚙️ Reproducibility
 
 Clone the repository:
